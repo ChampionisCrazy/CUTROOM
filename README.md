@@ -31,5 +31,7 @@ A Recommend button that will apply the settings for you based on the raw video f
 
 When updating to new versions, please uninstall the app first. Don't worry, it will be saved, but you can always download the video just in case.
 
+I have no life, so there will always be updates, so yeah, enjoy.
+
 
 
