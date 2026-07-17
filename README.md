@@ -13,7 +13,7 @@ crash recovery
 Linkage like capcut/clip snapping
 redo/undo
 all basic things that editing software has, really
-<img width="1322" height="250" alt="04afe62c4af1a74be55d4c89cf5d8839" src="https://github.com/user-attachments/assets/6d6f5e70-24d8-4150-b84a-968e746f03aa" />
+<img width="1319" height="257" alt="cfc0af70d9943b212d2f08060c5e32f2" src="https://github.com/user-attachments/assets/23048615-3b30-467d-bdb2-a7620a1ca953" />
 
 
 
@@ -25,9 +25,11 @@ all basic things that editing software has, really
 
 
                   Export settings (Change Resolution, FPS, Bitrate, Format (WebM/MP4/OGG/MKV))
-<img width="360" height="483" alt="82ef48f085a121103abba3073a27a4b3" src="https://github.com/user-attachments/assets/7a8832ed-6497-4a9f-bb07-a20792815fc1" />
+<img width="359" height="566" alt="098a58cfbeead79a5ab5389d06c6fe49" src="https://github.com/user-attachments/assets/8bc61cb7-7dda-40e1-a4e3-1f98d03e7f37" />
 
+A Recommend button that will apply the settings for you based on the raw video file and your timeline!
 
-And more that I forgot!
+When updating to new versions, please uninstall the app first. Don't worry, it will be saved, but you can always download the video just in case.
+
 
 
